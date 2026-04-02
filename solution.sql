@@ -13,3 +13,5 @@ INSERT INTO operations (name, val_a, val_b, result) VALUES
                                                         ('add', 10, 5, 15),
                                                         ('subtract', 20, 8, 12),
                                                         ('multiply', 4, 3, 12);
+
+
